@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallpaper Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h1>🎨 Wallpaper Collection</h1>
+        </div>
+    </header>
+
+    <nav class="category-nav">
+        <div class="container">
+            <button class="scroll-btn scroll-left" id="scrollLeft">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+            </button>
+            <div class="nav-scroll" id="navScroll">
+                <button class="category-btn active" data-category="all">All</button>
+            </div>
+            <button class="scroll-btn scroll-right" id="scrollRight">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+            </button>
+        </div>
+    </nav>
+
+    <main class="container">
+        <div class="gallery-info">
+            <span class="count" id="wallpaper-count">Loading...</span>
+        </div>
+
+        <div class="gallery" id="gallery">
+            <div class="loading">Loading wallpapers...</div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
