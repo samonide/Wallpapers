@@ -2,7 +2,7 @@
 
 A curated collection of **621 high-quality wallpapers** organized into themed categories.
 
-🌐 **[Browse Gallery →](https://samonide.github.io/wallpapers)**
+🌐 **[Browse Gallery →](https://samonide.github.io/Wallpapers/)**
 
 ---
 
@@ -37,7 +37,7 @@ A curated collection of **621 high-quality wallpapers** organized into themed ca
 ## 🚀 Quick Start
 
 ### Browse Online
-Visit **[samonide.github.io/wallpapers](https://samonide.github.io/wallpapers)** to explore the collection.
+Visit **[samonide.github.io/Wallpapers](https://samonide.github.io/Wallpapers/)** to explore the collection.
 
 ### Clone Repository
 ```bash
@@ -104,6 +104,6 @@ If you enjoy this collection:
 
 **Made with ❤️ by samonide**
 
-[Website](https://samonide.github.io/wallpapers) • [Email](mailto:samonide@fmb.im) • [GitHub](https://github.com/samonide)
+[Website](https://samonide.github.io/Wallpapers/) • [Email](mailto:samonide@fmb.im) • [GitHub](https://github.com/samonide)
 
 </div>
